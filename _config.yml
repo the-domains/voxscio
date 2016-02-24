@@ -1,7 +1,7 @@
 name: VOXSCIO
 favicon: null
-layout_spectrum: 0.29671261995099485
-typography_spectrum: 0.9468059791252017
+layout_spectrum: 0.75199
+typography_spectrum: 0.47502
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8239440936595201
-  lightness: 0.1943665670696646
-  saturation: 0.8879750552587211
+    - '#fefefe'
+    - '#373535'
+    - '#d1383b'
+    - '#ecb2a2'
+    - '#f6f6f6'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.929471853422001
 purpose: []
